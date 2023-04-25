@@ -1,4 +1,4 @@
-<h3 align="center">CS University of Alberta 2023</h3>
+CS University of Alberta 2023
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
